@@ -1,0 +1,5 @@
+@media(max-width: 671px) {
+    .header-img {
+        float: left;
+    }
+}
