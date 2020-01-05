@@ -14,6 +14,6 @@
         border: 0.5em solid tomato;
     }
     .home-heading{
-        font-size: calc(2vh+10px);
+        font-size: 50px !important;
     }
 }

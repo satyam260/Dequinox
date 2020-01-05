@@ -1,0 +1,19 @@
+.about{
+    background-color: black;
+    color: white;
+    padding-top: 70px;
+}
+.about-heading{
+    text-transform: uppercase;
+    padding-left: 80px;
+    font-size: 50px;
+}
+
+.about-text{
+    padding-top: 90px;
+    padding-left: 100px;
+    color: white;
+    width: 40%;
+    font-size: 30px;
+    font-family: 'Sofia', cursive;
+}
