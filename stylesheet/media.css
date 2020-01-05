@@ -1,4 +1,4 @@
-@media(max-width: 671px) {
+@media (max-width:671px) {
     .fest-date{
         font-size: 3vh;
     }
@@ -9,8 +9,11 @@
         height: 80px;
         position: relative;
         padding-top: 250px;
-      }
-      .loader:before, .loader:after{
+    }
+    .loader:before, .loader:after{
         border: 0.5em solid tomato;
-      }
+    }
+    .home-heading{
+        font-size: calc(2vh+10px);
+    }
 }
