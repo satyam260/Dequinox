@@ -13,7 +13,26 @@
     .loader:before, .loader:after{
         border: 0.5em solid tomato;
     }
+    .header-img{
+        margin-left: 30px !important;
+        width: 50px !important;
+        height: 50px !important;
+    }
     .home-heading{
         font-size: 50px !important;
+    }
+    .about-text{
+        font-size: 15px !important;
+        width: 80% !important;
+        padding-top: 100px !important;
+        padding-left: 80px !important;
+        word-spacing: 4px !important;
+        line-height: 32px !important;
+    }
+    .about-heading{
+        padding-top: 15px !important;
+        padding-left: 50px !important;
+        font-size: 35px !important;
+        word-spacing: 2px !important;
     }
 }
