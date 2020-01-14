@@ -1,0 +1,17 @@
+.headliner{
+    background-color: grey;
+    height: 1000px;
+    margin-top: 855px;
+}
+
+.headliner-heading{
+    text-transform: uppercase;
+    padding-left: 80px;
+    font-size: 80px;
+    position: absolute;
+    padding-top: 50px;
+    font-family: 'Black Ops One', cursive;
+    word-spacing: 10px;
+    color: white !important;
+    }
+}

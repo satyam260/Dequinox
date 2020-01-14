@@ -6,11 +6,12 @@
 }
 
 .home-heading{
+    position: absolute;
+    font-family: 'Shojumaru', cursive;
     position: relative;
     color: #fff;
     text-align: center;
     font-size: 80px;
     text-transform: uppercase;
-    font-family: 'Black Ops One', cursive;
     padding-top: 400px;
 }
