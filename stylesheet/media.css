@@ -24,16 +24,14 @@
     .about-text{
         font-size: 20px !important;
         width: 80% !important;
-        padding-top: 90px !important;
+        margin-top: -70px !important;
         padding-left: 80px !important;
         word-spacing: 4px !important;
         line-height: 32px !important;
     }
     .about-heading{
-        padding-top: 15px !important;
-        padding-left: 50px !important;
-        font-size: 37px !important;
-        word-spacing: 2px !important;
+        margin-top: -70px !important;
+        font-size: 35px !important;
     }  
     .headliner-heading{
         padding-top: 55px !important;
@@ -91,6 +89,19 @@
     .about-text{
         font-size: 25px !important;
         line-height: 40px !important;
+    }
+}
+
+@media (max-width: 420px){
+    .about-heading{
+        margin-left: -20px !important;
+        font-size: 45px !important;
+    }
+    .about-text{
+        margin-top: -130px !important;
+        font-size: 23px !important;
+        line-height: 35px !important;
+        word-spacing: 2px !important;
     }
 }
 
